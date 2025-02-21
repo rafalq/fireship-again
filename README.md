@@ -1,3 +1,3 @@
 # Git Course
 
-hello
+hello and welcome, sirs!
