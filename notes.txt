@@ -1,0 +1,13 @@
+git reset .
+git reset <file.ext>
+
+git remote
+git remote -v
+git remote add origin <repo/to/url>
+git remote show origin
+
+git push origin master
+git push origin master -u
+
+git fetch
+git merge origin/master
