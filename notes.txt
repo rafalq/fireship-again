@@ -7,7 +7,8 @@ git remote add origin <repo/to/url>
 git remote show origin
 
 git push origin master
-git push origin master -u
+git push origin master -u (--set-upstream)
+git push origin <local-branch>:<remote-branch>
 
 git fetch
 git merge origin/master
